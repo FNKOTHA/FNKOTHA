@@ -4,9 +4,8 @@
 ## Hi there 👋, my name is Fahmida Nasrin.
 #### I am a student and algorithm enthusiast.
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: C/ C++ / JS / HTML / CSS / MySQL
+Skills: C / C++ / JS / HTML / CSS / MySQL / Basic Angular
 
 - 🔭 I’m currently working on my own portfolio 
 - 🌱 I’m currently learning Javascript and React 

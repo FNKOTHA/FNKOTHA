@@ -1,6 +1,8 @@
-### Hi there 👋, my name is Fahmida Nasrin.
-#### I am a student and algorithm enthusiast.
 ![I am a student and algorithm enthusiast.](https://media.licdn.com/dms/image/D5616AQGCN0fs_BNLJQ/profile-displaybackgroundimage-shrink_350_1400/0/1677512011794?e=1713398400&v=beta&t=IE1N31_uZSX5Xs6ojlm1hOn0Lr8rCAXi5zQU5-O4_Ws)
+
+
+## Hi there 👋, my name is Fahmida Nasrin.
+#### I am a student and algorithm enthusiast.
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 

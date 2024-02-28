@@ -4,6 +4,7 @@
 ## Hi there 👋, my name is Fahmida Nasrin.
 #### I am a student and algorithm enthusiast.
 
+<img align = "right" src="https://cdn1.vectorstock.com/i/1000x1000/98/60/young-girl-learns-web-programming-vector-23209860.jpg" alt="coding" width="400">
 
 # 🖥️Skills: 
 C / C++ / JS / HTML / CSS / MySQL / Basic Angular

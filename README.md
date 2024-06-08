@@ -1,8 +1,8 @@
-![I am a student and algorithm enthusiast.](https://media.licdn.com/dms/image/D5616AQGCN0fs_BNLJQ/profile-displaybackgroundimage-shrink_350_1400/0/1677512011794?e=1713398400&v=beta&t=IE1N31_uZSX5Xs6ojlm1hOn0Lr8rCAXi5zQU5-O4_Ws)
+![I am a problem solver and algorithm enthusiast.](https://media.licdn.com/dms/image/D5616AQGCN0fs_BNLJQ/profile-displaybackgroundimage-shrink_350_1400/0/1677512011794?e=1713398400&v=beta&t=IE1N31_uZSX5Xs6ojlm1hOn0Lr8rCAXi5zQU5-O4_Ws)
 
 
 ## Hi there 👋, my name is Fahmida Nasrin.
-#### I am a student and algorithm enthusiast.
+#### I am a competitive programmer and algorithm enthusiast.
 
 <img align = "right" src="https://cdn1.vectorstock.com/i/1000x1000/98/60/young-girl-learns-web-programming-vector-23209860.jpg" alt="coding" width="200" height = "200">
 

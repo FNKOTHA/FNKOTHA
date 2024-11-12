@@ -16,8 +16,8 @@ C / C++ / JS / HTML / CSS / MySQL / Basic Angular
 
 # 🌐Active Social Accounts :
 <!--[![Twitter](https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/yourusername)-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/fahmidanasrinkothacse/))
-[![Facebook](https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=blue)]((https://www.facebook.com/twitwin.kothakoly/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/fahmidanasrinkothacse/)
+[![Facebook](https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=blue)](https://www.facebook.com/twitwin.kothakoly/)
 
 
 

@@ -15,7 +15,9 @@ C / C++ / JS / HTML / CSS / MySQL / Basic Angular
 - 📫 How to reach me: fahmidanasrinkotha@gmail.com 
 
 # 🌐Active Social Accounts :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FNKOTHA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fahmidanasrinkothacse//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/twitwin.kothakoly)  
+<!--[![Twitter](https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/yourusername)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/fahmidanasrinkothacse/))
+[![Facebook](https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=blue)]((https://www.facebook.com/twitwin.kothakoly/))
 
 
 

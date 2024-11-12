@@ -6,7 +6,7 @@
 <img align = "right" src="https://cdn1.vectorstock.com/i/1000x1000/98/60/young-girl-learns-web-programming-vector-23209860.jpg" alt="coding" width="200" height = "200">
 
 # 🖥️Skills: 
-C / C++ / JS / HTML / CSS / MySQL / Basic Angular
+C / C++ / JS / HTML / CSS / MySQL / Basic Angular / DSA / OOP
 
 - 🔭 I’m currently working on my own portfolio 
 - 🌱 I’m currently learning Javascript and React 
@@ -22,13 +22,13 @@ C / C++ / JS / HTML / CSS / MySQL / Basic Angular
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FNKOTHA)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FNKOTHA)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FNKOTHA&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/FNKOTHA)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=FNKOTHA)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=FNKOTHA)  -->
 
 
 

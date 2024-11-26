@@ -2,8 +2,18 @@
 
 ## Hi there 👋, my name is Fahmida Nasrin.
 #### I am a competitive programmer and algorithm enthusiast.
+<img  src="https://cdn1.vectorstock.com/i/1000x1000/98/60/young-girl-learns-web-programming-vector-23209860.jpg" alt="Coding" width="200" height="200" style="border-radius: 50%; margin-right: 20px;"/>
 
-<img align = "right" src="https://cdn1.vectorstock.com/i/1000x1000/98/60/young-girl-learns-web-programming-vector-23209860.jpg" alt="coding" width="200" height = "200">
+## 💫 About Me:
+
+- 🔭 I’m currently working on my own portfolio 
+- 🌱 I’m currently learning Javascript and React 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Intermediate problem solving strategies. 
+- 📫 How to reach me: fahmidanasrinkotha@gmail.com 
+
+<!--<img align = "right" src="https://cdn1.vectorstock.com/i/1000x1000/98/60/young-girl-learns-web-programming-vector-23209860.jpg" alt="coding" width="200" height = "200">-->
+
 
 # 🖥️Skills: 
 <!--C / C++ / JS / HTML / CSS / MySQL / Basic Angular / DSA / OOP-->
@@ -29,11 +39,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on my own portfolio 
-- 🌱 I’m currently learning Javascript and React 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Intermediate problem solving strategies. 
-- 📫 How to reach me: fahmidanasrinkotha@gmail.com 
+
+
+
 
 # 🌐Active Social Accounts :
 <!--[![Twitter](https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/yourusername)-->

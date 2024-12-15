@@ -7,7 +7,8 @@
 ## 💫 About Me:
 
 - 🔭 I’m currently working on my own portfolio 
-- 🌱 I’m currently learning Javascript and React 
+- 🌱 I’m currently practicing problem solving using Javascript
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Intermediate problem solving strategies. 
 - 📫 How to reach me: fahmidanasrinkotha@gmail.com 
